@@ -11,7 +11,6 @@ td {
   padding: 12px;
 }
 table {
-     
     text-indent: initial;
     text-wrap: wrap;
     line-height: normal;
@@ -28,9 +27,8 @@ table {
 }
 
 .breadcrumb li+li::before {
-	padding: 10px;
+  padding: 10px;
   content: ">";
-
 }
 
 .breadcrumb a {
