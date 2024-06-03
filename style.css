@@ -46,6 +46,7 @@ table {
   width:98%;
   border: 2px solid black;
   height: 300px;
+  display: inline-flex;
   
 }
 .blueBox{
@@ -55,7 +56,7 @@ table {
   padding: 20px;
   color: white;
   height: 90px;
-  float: left;
+  border: 5px;
 }
 .colorName{
   font-size: 20px;
@@ -71,7 +72,7 @@ table {
   padding: 20px;
   color: white;
   height: 90px;
-  float: left;
+  border: 5px;
   
 }
 .beige{
@@ -81,7 +82,7 @@ table {
   padding: 20px;
   color: white;
   height: 90px;
-  float: left;
+  border: 5px;
 }
 .slateGrey{
   background-color: #2f4f4f;
@@ -90,7 +91,7 @@ table {
   padding: 20px;
   color: white;
   height: 90px;
-  float: left;
+  border: 5px;
 }
 .fontBox{
   width:98%;
