@@ -1,3 +1,6 @@
+html{
+  background-color:white;
+}
 
 td {
   border: 2px solid darkorchid;
@@ -28,10 +31,6 @@ table {
 }
 .breadcrumb a:hover {
   color: red;
-}
-
-html{
-  background-color:white;
 }
 
 
