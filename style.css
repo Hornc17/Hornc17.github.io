@@ -34,3 +34,114 @@ table {
 .breadcrumb a:hover {
   color: red;
 }
+
+html{
+  background-color:white;
+}
+
+
+.box{
+  border: 2px solid black;
+  padding: 10px;
+  margin:10px auto;
+  width: auto;
+  height:auto;
+
+}
+.colorBox{
+  width:98%;
+  border: 2px solid black;
+  height: 300px;
+  
+}
+.blueBox{
+  background-color: #2d5dcc;
+  width: 110px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  height: 90px;
+  float: left;
+}
+.colorName{
+  font-size: 20px;
+
+}
+.colorHex{
+  font-size: 17px;
+}
+.mintGreen{
+  background-color: #4fe0b0;
+  width: 110px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  height: 90px;
+  float: left;
+  
+}
+.beige{
+  background-color: #efd9ca;
+  width: 110px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  height: 90px;
+  float: left;
+}
+.slateGrey{
+  background-color: #2f4f4f;
+  width: 110px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  height: 90px;
+  float: left;
+}
+.fontBox{
+  width:98%;
+  border: 2px solid black;
+  height: 300px;
+}
+.openSans{
+  font-family: "Open Sans";
+  width: 110px;
+  text-align: center;
+  padding: 10px;
+  color: black;
+  height: 90px;
+  float: left;
+  
+}
+.fontName{
+  font-size: 20px;
+}
+.fontStyles{
+  font-size: 17px;
+}
+.roboto{
+  font-family: "Roboto";
+  width: 110px;
+  text-align: center;
+  padding: 10px;
+  color: black;
+  height: 90px;
+  float: left;
+  padding-top: 14px;
+}
+.merriweather{
+  font-family: "Merriweather";
+  width: 110px;
+  text-align: center;
+  padding: 10px;
+  color: black;
+  height: 90px;
+  float: left;
+  padding-top: 12px;
+}
+.headingbox{
+  width:98%;
+  border: 2px solid black;
+  height: 400px;
+  padding-left: 15px;
+}
